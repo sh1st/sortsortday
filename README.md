@@ -1,6 +1,3 @@
-# sortsortday
-shatin sorting game
-[index.html](https://github.com/user-attachments/files/34435698/index.html)
 <!DOCTYPE html>
 <html lang="zh-HK">
 <head>
